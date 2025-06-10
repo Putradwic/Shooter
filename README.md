@@ -15,6 +15,7 @@
 ## 🕹️ Cara Main
 
 - Buka link ini untuk memainkanya https://putradwic.github.io/CollectStar/
+- (Opsional) Zoom out 50%
 - Kontrol:
     - `←, A / →, B` = kiri / kanan  
     - `↑ / W` = Keatas 
